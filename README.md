@@ -1,9 +1,19 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://inadequate-jade-8n62qcrtdd.edgeone.app/hello11.jpg" width="150" height="150" alt="Animated greeting GIF"/>
+  <img src="https://valuable-sapphire-bzciy9brdj.edgeone.app/large%20hello.jpg" width="750" height="450" alt="Animated greeting GIF"/>
 </div>
-
+<p align="center">
+    <a href="https://www.linkedin.com/in/anuj-kumar-kushwaha-57646125" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://x.com/AK226768743" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://www.instagram.com/__anuj7953" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+</p>
 # Hello there, I'm Anuj Kumar Kushwaha 👋
 
 ### I'm a B.Tech. student and passionate Software Developer from India, with a major focus on Frontend Development. My journey in tech is fueled by curiosity and a love for building cool things.
@@ -43,18 +53,5 @@ Here are some of the technologies I work with. I'm always looking to add new too
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj7953&layout=compact&locale=en&theme=tokyonight" alt="Anuj7953 Top Languages"/>
 </p>
 
----
 
-### 🌐 Connect with Me
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/anuj-kumar-kushwaha-57646125" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://x.com/AK226768743" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://www.instagram.com/__anuj7953" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-</p>
