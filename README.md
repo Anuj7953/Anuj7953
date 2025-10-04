@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Q81N62P9D8T7yW7B0K/giphy.gif" width="150" height="150" alt="Animated greeting GIF"/>
+  <img src="https://www.rawpixel.com/search/hello" width="" 150" height="150" alt="Animated greeting GIF"/>
 </div>
 
 # Hello there, I'm Anuj Kumar Kushwaha 👋
