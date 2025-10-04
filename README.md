@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://www.rawpixel.com/search/hello" width="" 150" height="150" alt="Animated greeting GIF"/>
+  <img src="https://inadequate-jade-8n62qcrtdd.edgeone.app/hello11.jpg" width="150" height="150" alt="Animated greeting GIF"/>
 </div>
 
 # Hello there, I'm Anuj Kumar Kushwaha 👋
