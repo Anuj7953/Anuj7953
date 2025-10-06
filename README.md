@@ -13,6 +13,7 @@
     <a href="https://www.instagram.com/__anuj7953" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=Anuj7953&style=flat-square&color=blue" alt=""/></p>
 </p>
 # Hello there, I'm Anuj Kumar Kushwaha 👋
 
