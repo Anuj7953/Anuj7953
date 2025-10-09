@@ -53,6 +53,12 @@ Here are some of the technologies I work with. I'm always looking to add new too
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj7953&theme=tokyonight" alt="Anuj7953 GitHub Streak"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj7953&layout=compact&locale=en&theme=tokyonight" alt="Anuj7953 Top Languages"/>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anuj7953&theme=dracula&column=7&margin-w=5&margin-h=5" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 
